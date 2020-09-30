@@ -21,6 +21,10 @@ def bacon():
     eggs=1
 spam1()
 
+def hello()
+    ab=123
+    print(ab)
+
 
 
 #global varibale can be read by local scope
