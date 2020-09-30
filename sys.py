@@ -20,3 +20,5 @@ print('baba')
 
 print('cat','dog')
 print('cat','dog', sep='$')
+
+print("checking stufff")
